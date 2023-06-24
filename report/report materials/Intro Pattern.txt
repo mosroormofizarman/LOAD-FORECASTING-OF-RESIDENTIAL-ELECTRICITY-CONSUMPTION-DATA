@@ -1,0 +1,5 @@
+1. Define the problem
+2. Tell us how ML can solve that problem
+3. Briefly inform us about the existing solutions
+4. Tell us how you are going to solve it differently
+5. write your unique contribution in bullet points.

@@ -1,0 +1,14 @@
+The project proposal will be taken on 17.02.22 in the morning  and after Jumma. The Groupwise time slot will be updated before the deadline. For the project proposal following things are needed to be incorporated in your proposal
+
+ 
+1. Brief about your project ( Basic Features, bullet point)
+
+2. Description of the dataset/ datasets that you are planning to use ( with reference ) ( minimum 2 datasets should be chosen )
+
+3. High-level software diagram/ flow chart/architecture ( sample figure can be found in the attachment )
+
+4. Software Stack 
+
+5. Gantt chart ( https://www.gantt.com/ Links to an external site.)
+
+6. A table containing work distribution between yourself
